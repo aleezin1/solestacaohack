@@ -1,0 +1,67 @@
+
+header{
+    width: 100%;
+    height: 100px;
+    background-color:white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.corpo_pag{
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    background-color:white;
+}
+
+body{
+    margin:0;
+    padding: 0;
+    background-color: #32325b;
+}
+
+.perguntas{
+    position: relative;
+    top:-65px;
+    width: 100%;
+    height: 600x;
+    display: flex;
+}
+
+.perguntas p{
+    position: relative;
+    font-size: 40px;
+    top:250px;
+    right: -150px;;
+    text-transform: uppercase;
+}
+
+button{
+    position: relative;
+    top:30px;
+    background-color: #32325b;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    width:40%;
+    height: 600px;
+    font-size: 70px;
+    margin-bottom: -65px;
+}
+
+.btn2{
+
+  left: 306px;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color:white;
+    text-align: center;
+}
